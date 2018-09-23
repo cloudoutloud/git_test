@@ -1,5 +1,5 @@
-// divide.js
+// divide.js [master/commit3]
 // return division of two numbers
-function divide(a, b) {
-    return a / b;
+function divide(a, b, bDIVIDEa) {
+    return (bDIVIDEa) ? b / a : a / b;
 };
